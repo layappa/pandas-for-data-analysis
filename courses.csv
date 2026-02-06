@@ -1,0 +1,11 @@
+course_id,course_name,department,credits
+101,Python Programming,Computer Science,4
+102,Data Structures,Computer Science,4
+103,DBMS,Computer Science,
+201,Thermodynamics,Mechanical,3
+202,Fluid Mechanics,Mechanical,3
+301,Circuit Theory,Electrical,3
+302,Power Systems,Electrical,
+401,Structural Analysis,Civil,3
+402,Geotechnical Engineering,Civil,3
+403,Transportation Engineering,Civil,

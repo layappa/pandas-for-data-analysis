@@ -1,0 +1,51 @@
+student_id,name,age,department
+1,Amit,20,Computer Science
+2,Neha,21,Mechanical
+3,Rahul,19,Electrical
+4,Priya,22,Computer Science
+5,Karan,,Civil
+6,Sneha,20,
+7,Arjun,21,Computer Science
+8,Pooja,19,Mechanical
+9,Rohan,22,Electrical
+10,Anjali,,Computer Science
+11,Vikram,23,Civil
+12,Nisha,20,Computer Science
+13,Manish,21,Mechanical
+14,Kavya,,Electrical
+15,Suresh,22,Civil
+16,Meena,19,Computer Science
+17,Akash,20,Mechanical
+18,Divya,21,Electrical
+19,Mohan,22,
+20,Ritu,20,Computer Science
+21,Varun,21,Mechanical
+22,Isha,19,Electrical
+23,Nitin,22,Civil
+24,Simran,,Computer Science
+25,Deepak,20,Mechanical
+26,Ayesha,21,Electrical
+27,Harish,22,Civil
+28,Tina,,Computer Science
+29,Sanjay,20,Mechanical
+30,Riya,21,Electrical
+31,Ajay,22,Civil
+32,Payal,19,Computer Science
+33,Sunil,20,Mechanical
+34,Pankaj,,Electrical
+35,Alok,22,Civil
+36,Sonal,20,Computer Science
+37,Rakesh,21,Mechanical
+38,Komal,19,Electrical
+39,Girish,22,Civil
+40,Mitali,,Computer Science
+41,Abhishek,20,Mechanical
+42,Pallavi,21,Electrical
+43,Anand,22,Civil
+44,Shruti,19,Computer Science
+45,Yogesh,,Mechanical
+46,Rekha,21,Electrical
+47,Lalit,22,Civil
+48,Swati,20,Computer Science
+49,Prakash,21,
+50,Monika,22,Mechanical
